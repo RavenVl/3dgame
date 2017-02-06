@@ -1,0 +1,23 @@
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Models\spaceship.xnb
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\3dgame.exe
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\3dgame.pdb
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\obj\x86\Debug\3dgame.exe
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\obj\x86\Debug\3dgame.pdb
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Models\ammo.xnb
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Textures\Crosshair.xnb
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Raven\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Models\spaceship.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Models\ammo.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Textures\Crosshair.xnb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\3dgame.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\bin\x86\Debug\3dgame.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\obj\x86\Debug\3dgame.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\3dgame\3dgame\3dgame\obj\x86\Debug\3dgame.pdb
